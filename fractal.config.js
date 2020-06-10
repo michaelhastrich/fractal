@@ -13,7 +13,7 @@ const fractal = module.exports = require('@frctl/fractal').create();
 /*
  * Give your project a title.
  */
-fractal.set('project.title', 'Bynco Component Library');
+fractal.set('project.title', 'Component Library');
 
 /*
  * Tell Fractal where to look for components.
