@@ -1,0 +1,9 @@
+{
+    "title": "Button Component",
+    "status": "wip",
+    "context": {
+        "text": "Klik mij",
+        "class": "o-btn o-btn--large",
+        "type": "button"    
+    }
+}
